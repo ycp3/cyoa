@@ -1,0 +1,10 @@
+{
+  "text": "",
+  "option1": "",
+  "index1": 1,
+  "option2": "",
+  "index2": 1,
+  "option3": "",
+  "index3": 1,
+  "gameover": false
+}
